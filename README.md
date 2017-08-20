@@ -1,2 +1,1 @@
-# HW-Wireframe
-Week 1 Homework Easy - Wireframe project 
+Illustrates a mock up wireframe for a possible impending project
